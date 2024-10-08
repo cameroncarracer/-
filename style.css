@@ -1,0 +1,36 @@
+body {
+    background-color:lightblue;
+  }
+  img {
+    width:100px;
+    border-style: solid;
+    border-color: black;
+  }
+  h1 {
+    font-family: sans-serif;
+    color:black;
+    border-style:dashed;
+    border-color:darkblue;
+  }
+  h2 {
+    font-family: sans-serif;
+    color:black;
+    border-style:dashed;
+    border-color:darkblue;
+  }
+  h3 {
+    font-family: sans-serif;
+    color:black;
+    border-style:dashed;
+    border-color:darkblue;
+  }
+  p {
+    font-family: monospace;
+    color:black;
+    background-color:lightgray;
+  }
+  .non-index-headings-and-subheadings {
+    font-family:sans-serif;
+    color:black;
+    border-style:hidden;
+  }
